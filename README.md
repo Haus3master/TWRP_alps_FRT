@@ -17,4 +17,4 @@ TWRP 3.7.0 for the Nokia 1 TA-1066(MT6735/7M)
 
 6. Your built recovery image will be located in "out/target/product/FRT/recovery.img
 
-Credits to @sebaubuntu for twwrpdtgen - which helped create the device tree
+Credits to @sebaubuntu for twrpdtgen - which helped create the device tree
